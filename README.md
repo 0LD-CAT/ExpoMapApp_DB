@@ -3,7 +3,7 @@
 ## Инструкция по установке
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/0LD-CAT/ExpoMapApp.git
+   git clone https://github.com/0LD-CAT/ExpoMapApp_DB.git
    ```
 
 2. Установите зависимости.
